@@ -1,0 +1,13 @@
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: left;
+  height: 100vh;
+}
+
+input[type="text"] {
+  width: 200px; /* Adjust width as needed */
+  
+}
